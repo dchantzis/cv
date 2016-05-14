@@ -51,7 +51,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ##### 2002 - 2008
 
-#### BSc Informatics Engineer
+#### BSc in Computer Science (*Informatics Engineer*)
 
 *Thessaloniki Technological Educational Institute - Thessaloniki, Greece*
 
@@ -168,7 +168,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 ---
 
 ##### 04/2006 - 10/2006
-#### Web Developer and Designer [BSc Internship]
+#### Web Developer and Designer [BSc in Computer Science Internship]
 *Thessaloniki Technological Educational Institute - Thessaloniki, Greece*
 
 - For my six month internship I worked as a Back-End and Front-End Developer, as well as Web Designer, of a web application for the administration of proclamations to professors for the Department of Informatics.
