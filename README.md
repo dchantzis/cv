@@ -49,7 +49,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 #### School of Reserve Officers
 
-*Hellenic Armed Forces - Athens, Greece*
+*Hellenic Armed Forces | Athens, Greece*
 
 ---
 
@@ -57,7 +57,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 #### MSc in Design and Digital Media
 
-*The University of Edinburgh - Edinburgh, UK*
+*The University of Edinburgh | Edinburgh, UK*
 
 ---
 
@@ -65,13 +65,13 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 #### BSc in Computer Science (*Informatics Engineer*)
 
-*Thessaloniki Technological Educational Institute - Thessaloniki, Greece*
+*Thessaloniki Technological Educational Institute | Thessaloniki, Greece*
 
 ## Professional Experience
 
 ###### 10/2015 - current
 #### Web Developer
-*Freelance* [(website)](http://www.dimitrioschantzis.com) - *Brighton, UK*
+*Freelance* [(website)](http://www.dimitrioschantzis.com) | *Brighton, UK*
 
 **Technologies**: PHP,  SQL,  MySQL,  HTML5,  CSS3,  javaScript,  AJAX,  jQuery,  Drupal7, Wordpress, XML,  JSON, Twig,  Git,  Markdown, Jekyll, YAML, Adobe Photoshop
 
@@ -79,7 +79,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ###### 06/2015 - 11/2015
 #### Senior Web Developer
-*Mosaic Digital* [(website)](http://www.emosaic.co.uk/) - *Brighton, UK*
+*Mosaic Digital* [(website)](http://www.emosaic.co.uk/) | *Brighton, UK*
 
 - Organizing and planning the development of new projects, through guidelines to minimize repetition of code.
 - Back-End development of new projects.
@@ -99,7 +99,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ###### 01/2013 - 06/2015
 #### Back-end Web Developer
-*Mosaic Digital* [(website)](http://www.emosaic.co.uk/) - *Brighton, UK*
+*Mosaic Digital* [(website)](http://www.emosaic.co.uk/) | *Brighton, UK*
 
 - Part of a talented multidisciplinary team, working primarily as a Back-end Developer and producing web applications.
 - Maintaining and expanding the Zend-based agency CMS and creating re-usable modules
@@ -116,9 +116,9 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ###### 02/2011 - 06/2012
 #### Back-end and Front-end Web Developer
-*Tera Media* [(website)](http://www.tera-media.net/)- *London, UK & Athens, Greece*
+*Tera Media* [(website)](http://www.tera-media.net/) | *London, UK & Athens, Greece*
 
-- Planning, designing and developing the back-end and - front-end structure and code for new projects.
+- Planning, designing and developing the back-end and front-end structure and code for new projects.
 - My responsibilities also included maintaining the agency's old projects.
 
 **Technologies:** PHP,  SQL,  MySQL,  (X)HTML,  CSS,  javaScript,  AJAX,  mooTools,  jQuery,  JSON,  XML, Drupal6
@@ -127,7 +127,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ###### 05/2011 - 07/2012
 #### Director of the I.T. Stuff office at the 88th Brigade of Greece | Second Lieutenant (OF-1) of the 'Research and Informatics' Military Corps
-*Hellenic Army Forces - Greece*
+*Hellenic Army Forces | Greece*
 
 - I lead a small team of IT soldiers, responsible for maintaining the IT infrastructure of all the Units and Army Camps under the Brigade.
 - Additional responsibilities included the production and editing of daily, weekly and monthly reports for Secret, Top Secret and Special Handling Top Secret documents and reports.
@@ -140,7 +140,7 @@ This allowed me to have some free time to continue working by distance as a Web 
 
 ###### 07/2009 - 10/2010
 #### Back-end and Front-end Web Developer
-*Tera Media - London, UK & Athens, Greece*
+*Tera Media | London, UK & Athens, Greece*
 
 - Planning, designing and developing the back-end and front-end structure and code for new projects.
 - My responsibilities also included maintaining the agency's old projects.
@@ -153,7 +153,7 @@ This allowed me to have some free time to continue working by distance as a Web 
 
 ###### 09/2008 - 12/2008
 #### Call center operator
-*Vodafone - Thessaloniki, Greece*
+*Vodafone | Thessaloniki, Greece*
 
 - I worked at the customer service section of the call center, specializing on contract connections.
 This was one of the jobs that I had in order to raise funds for my MSc at the University of Edinburgh.
@@ -162,7 +162,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ###### 09/2007 - 06/2008
 #### Web Development Teacher
-*Win.net Digital Education Center - Thessaloniki, Greece*
+*Win.net Digital Education Center | Thessaloniki, Greece*
 
 - Worked as a Web Developer teacher on the basic and advanced practices that were used back in 2007.
 - This was one of the jobs that I had in order to raise funds for my MSc at the University of Edinburgh.
@@ -173,7 +173,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ###### 05/2007 - 06/2008
 #### Call center operator
-*ASANA / ATTACK - Thessaloniki, Greece*
+*ASANA / ATTACK | Thessaloniki, Greece*
 
 - During my studies at the BSc in Computer Sciences, I worked as a call center operator for telemarketing sales of books and videos.
 - This was one of jobs that I had in order to raise funds for my MSc at the University of Edinburgh.
@@ -182,7 +182,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ###### 04/2006 - 10/2006
 #### Web Developer and Designer [BSc in Computer Science Internship]
-*Thessaloniki Technological Educational Institute - Thessaloniki, Greece*
+*Thessaloniki Technological Educational Institute | Thessaloniki, Greece*
 
 - For my six month internship I worked as a Back-End and Front-End Developer, as well as Web Designer, of a web application for the administration of proclamations to professors for the Department of Informatics.
 
@@ -192,7 +192,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ###### 10/2004 - 06/2005
 #### ECDL Teacher [Volunteer]
-*Association of St. Dimitrios - Thessaloniki, Greece*
+*Association of St. Dimitrios | Thessaloniki, Greece*
 
 - During my studies for my BSc in Computer Sciences, I spent a year working as a Volunteer ECDL teacher for the MS Office Suite 2003, to gain experience and insight as a teacher.
 
