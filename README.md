@@ -55,7 +55,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 *Thessaloniki Technological Educational Institute - Thessaloniki, Greece*
 
-## Education
+## Professional Experience
 ##### 10/2015 - current
 #### Web Developer
 *Freelance* [(website)](http://www.dimitrioschantzis.com) - *Brighton, UK*
