@@ -10,6 +10,18 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 **Location:** Norfolk square, Brighton, U.K. BN1 2QA
 
+---
+
+######Table of contents
+
+1. [About](https://github.com/dchantzis/cv#about)
+2. [Professional profile](https://github.com/dchantzis/cv#professional-profile)
+3. [Education](https://github.com/dchantzis/cv#education)
+4. [Professioanl Experience](https://github.com/dchantzis/cv#professional-experience)
+5. [Technical skills](https://github.com/dchantzis/cv#technical-skills)
+6. [Languages](https://github.com/dchantzis/cv#languages)
+7. [Interests](https://github.com/dchantzis/cv#interests)
+
 ## About
 
 - I'm driven by the desire to create great work for good people while expanding my knowledge, expertise and understanding.
@@ -22,6 +34,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 - Nine years experience in Back-end and Front-end Web Development, interface design and conceptual work.
 - Formal education in the fields of Computer Science and Design & Digital Media.
+- Experience in management.
 - Reserve military officer (OF-1) with working experience as Director of the I.T. Stuff office of the 88th Brigade of Greece.
 - Disciplined and able to work independently using my own initiative as well as collaborate within teams and follow directives.
 - Decisive and self-motivated developer in the areas of Informatics Applications, Digital Design and Graphic Illustration.
@@ -29,7 +42,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ## Education
 
-##### 2011
+###### 2011
 
 #### School of Research and Informatics Corps
 
@@ -41,7 +54,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ---
 
-##### 2009 - 2010
+###### 2009 - 2010
 
 #### MSc in Design and Digital Media
 
@@ -49,14 +62,15 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ---
 
-##### 2002 - 2008
+###### 2002 - 2008
 
 #### BSc in Computer Science (*Informatics Engineer*)
 
 *Thessaloniki Technological Educational Institute - Thessaloniki, Greece*
 
 ## Professional Experience
-##### 10/2015 - current
+
+###### 10/2015 - current
 #### Web Developer
 *Freelance* [(website)](http://www.dimitrioschantzis.com) - *Brighton, UK*
 
@@ -64,7 +78,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ---
 
-##### 06/2015 - 11/2015
+###### 06/2015 - 11/2015
 #### Senior Web Developer
 *Mosaic Digital* [(website)](http://www.emosaic.co.uk/) - *Brighton, UK*
 
@@ -84,7 +98,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ---
 
-##### 01/2013 - 06/2015
+###### 01/2013 - 06/2015
 #### Back-end Web Developer
 *Mosaic Digital* [(website)](http://www.emosaic.co.uk/) - *Brighton, UK*
 
@@ -101,7 +115,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ---
 
-##### 02/2011 - 06/2012
+###### 02/2011 - 06/2012
 #### Back-end and Front-end Web Developer
 *Tera Media* [(website)](http://www.tera-media.net/)- *London, UK & Athens, Greece*
 
@@ -112,7 +126,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ---
 
-##### 05/2011 - 07/2012
+###### 05/2011 - 07/2012
 #### Director of the I.T. Stuff office at the 88th Brigade of Greece | Second Lieutenant (OF-1) of the 'Research and Informatics' Military Corps
 *Hellenic Army Forces - Greece*
 
@@ -125,7 +139,7 @@ This allowed me to have some free time to continue working by distance as a Web 
 
 ---
 
-##### 07/2009 - 10/2010
+###### 07/2009 - 10/2010
 #### Back-end and Front-end Web Developer
 *Tera Media - London, UK & Athens, Greece*
 
@@ -138,7 +152,7 @@ This allowed me to have some free time to continue working by distance as a Web 
 
 ---
 
-##### 09/2008 - 12/2008
+###### 09/2008 - 12/2008
 #### Call center operator
 *Vodafone - Thessaloniki, Greece*
 
@@ -147,7 +161,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ---
 
-##### 09/2007 - 06/2008
+###### 09/2007 - 06/2008
 #### Web Development Teacher
 *Win.net Digital Education Center - Thessaloniki, Greece*
 
@@ -158,7 +172,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ---
 
-##### 05/2007 - 06/2008
+###### 05/2007 - 06/2008
 #### Call center operator
 *ASANA / ATTACK - Thessaloniki, Greece*
 
@@ -167,7 +181,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ---
 
-##### 04/2006 - 10/2006
+###### 04/2006 - 10/2006
 #### Web Developer and Designer [BSc in Computer Science Internship]
 *Thessaloniki Technological Educational Institute - Thessaloniki, Greece*
 
@@ -177,7 +191,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ---
 
-##### 10/2004 - 06/2005
+###### 10/2004 - 06/2005
 #### ECDL Teacher [Volunteer]
 *Association of St. Dimitrios - Thessaloniki, Greece*
 
@@ -200,13 +214,13 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ## Languages
 
-##### English
+###### English
 - 5 years living in the UK
 - TOEFL-iBT (Grade: 94/120, March 2009)
 - Cambridge Certificate of Proficiency in English (CPE) (Grade: C, December 2001)
 - Cambridge First Certificate in English (Grade: B, December 1997)
 
-#### Greek
+###### Greek
 - Native Tongue
 
 
