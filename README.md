@@ -10,7 +10,6 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 **Location:** Norfolk square, Brighton, U.K. BN1 2QA
 
----
 
 ######Table of contents
 
