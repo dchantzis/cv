@@ -60,7 +60,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 #### Web Developer
 *Freelance* [(website)](http://www.dimitrioschantzis.com) - *Brighton, UK*
 
-**Technologies**: PHP,  SQL,  MySQL,  HTML5,  CSS3,  javaScript,  AJAX,  jQuery,  Drupal7, Wordpress, XML,  JSON, Twig,  Git,  Markdown, Jekyll, YAML
+**Technologies**: PHP,  SQL,  MySQL,  HTML5,  CSS3,  javaScript,  AJAX,  jQuery,  Drupal7, Wordpress, XML,  JSON, Twig,  Git,  Markdown, Jekyll, YAML, Adobe Photoshop
 
 ---
 
