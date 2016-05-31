@@ -202,7 +202,7 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 - PHP, Java2, C++, Fortran, Assembly, ActionScript 3.0, Prolog
 - HTML5, CSS3, SMACSS, JavaScript, AJAX, jQuery, Liquid, YAML, Markdown, JSON
-- Zend, Laravel
+- Zend
 - Drupal, Wordpress, Jekyll, Magento
 - MySQL, PostgreSQL, IBM DB2, MS Access
 - Photoshop, Illustrator, InDesign, Corel Painter IX, Autodesk SketchbookPro
