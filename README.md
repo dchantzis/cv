@@ -79,7 +79,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 - Server maintenance.
 - Managing projects backups on Amazon AWS.
 - Writing documentations and guides.
-- Projects included: ***Thomas Marsh***, ***BDM Group company systems and website***.
+- Projects included: ***Thomas Marsh***, ***BDM Group company systems and websites***.
 
 **Technologies**: PHP(OOP), Symfony (2 & 3), SQL, MySQL, HTML5, CSS3, javaScript, AJAX, jQuery, OpenCart, Wordpress, XML, JSON, Twig, Git, Vagrant, Digital Ocean, Amazon AWS, MS Azure, YML, Pimple 
 
