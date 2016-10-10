@@ -6,9 +6,9 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 **Portfolio Website:** [www.dimitrioschantzis.com](http://www.dimitrioschantzis.com)
 
-**Tel:** +44 (0) 7511719938
+**Tel:** +44 (0) 7511 71 99 38
 
-**Location:** Norfolk square, Brighton, U.K. BN1 2QA
+**Location:** 4 St Aubyns Gardens, Hove, U.K. BN3 2TA
 
 
 ######Table of contents
@@ -69,11 +69,25 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ## Professional Experience
 
+###### 06/2016 - current
+#### Senior Web Developer
+*22 Point Six* [(website)](http://www.22pointsix.co.uk) | *Burgess Hill*
+
+- Back-End development of new projects.
+- RESTful API development.
+- Development, staging and production server setup.
+- Server maintenance.
+- Managing projects backups on Amazon AWS.
+- Writing documentations and guides.
+- Projects included: ***Thomas Marsh***, ***BDM Group company systems and website***.
+
+**Technologies**: PHP(OOP), Symfony (2 & 3), SQL, MySQL, HTML5, CSS3, javaScript, AJAX, jQuery, OpenCart, Wordpress, XML, JSON, Twig, Git, Vagrant, Digital Ocean, Amazon AWS, MS Azure, YML, Pimple 
+
 ###### 10/2015 - current
 #### Web Developer
 *Freelance* [(website)](http://www.dimitrioschantzis.com) | *Brighton, UK*
 
-**Technologies**: PHP,  SQL,  MySQL,  HTML5,  CSS3,  javaScript,  AJAX,  jQuery,  Drupal7, Wordpress, XML,  JSON, Twig,  Git,  Markdown, Jekyll, YAML, Adobe Photoshop
+**Technologies**: PHP(OOP), Symfony 3, SQL, MySQL,  HTML5, CSS3, javaScript, AJAX,  jQuery, Drupal7, Wordpress, XML, JSON, Twig, Git, Markdown, Jekyll, YAML, Adobe Photoshop
 
 ---
 
@@ -200,11 +214,13 @@ This was one of the jobs that I had in order to raise funds for my MSc at the Un
 
 ## Technical skills
 
-- PHP, Java2, C++, Fortran, Assembly, ActionScript 3.0, Prolog
+- PHP(OOP), Java2, C++, Fortran, Assembly, ActionScript 3.0, Prolog, Unix
 - HTML5, CSS3, SMACSS, JavaScript, AJAX, jQuery, Liquid, YAML, Markdown, JSON
-- Zend
-- Drupal, Wordpress, Jekyll, Magento
+- Symfony (2 & 3), Zend, Pimple
+- Drupal 7, Wordpress, Jekyll, OpenCart
 - MySQL, PostgreSQL, IBM DB2, MS Access
+- Vagrant, Cron, cURL
+- Apache Server configuration, maintenance, Virtual hosts, SSL Certificates, Vagrant, PuPHPet, Digital Ocean, Amazon AWS
 - Photoshop, Illustrator, InDesign, Corel Painter IX, Autodesk SketchbookPro
 - Blender, Microstation '95
 - Mac OS X, Ubuntu, Windows
