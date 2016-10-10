@@ -83,6 +83,8 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 **Technologies**: PHP(OOP), Symfony (2 & 3), SQL, MySQL, HTML5, CSS3, javaScript, AJAX, jQuery, OpenCart, Wordpress, XML, JSON, Twig, Git, Vagrant, Digital Ocean, Amazon AWS, MS Azure, YML, Pimple 
 
+---
+
 ###### 10/2015 - current
 #### Web Developer
 *Freelance* [(website)](http://www.dimitrioschantzis.com) | *Brighton, UK*
