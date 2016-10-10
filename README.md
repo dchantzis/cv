@@ -76,10 +76,12 @@ Informatics Engineer and Web Developer based in Brighton, UK
 - Back-End development of new projects.
 - RESTful API development.
 - Development, staging and production server setup.
+- Managing the projects databases.
+- Maintaining the back catalog of the agency's projects.
 - Server maintenance.
 - Managing projects backups on Amazon AWS.
 - Writing documentations and guides.
-- Projects included: ***Thomas Marsh***, ***BDM Group company systems and websites***.
+- Projects included: ***Thomas Marsh***, ***The BDM Group company systems and websites***.
 
 **Technologies**: PHP(OOP), Symfony (2 & 3), SQL, MySQL, HTML5, CSS3, javaScript, AJAX, jQuery, OpenCart, Wordpress, XML, JSON, Twig, Git, Vagrant, Digital Ocean, Amazon AWS, MS Azure, YML, Pimple 
 
@@ -105,7 +107,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 - Maintaining and expanding the Zend-based agency CMS and creating re-usable modules.
 - Part of the core agency team that produced the new agency CMS, based on Drupal7.
 - Creating and expanding Drupal7 modules.
-- Responsible for maintaining the full back catalog of the agencies projects, as well as rebuilding and expanding functionalities.
+- Responsible for maintaining the full back catalog of the agency's projects, as well as rebuilding and expanding functionalities.
 - Writing documentations and guides.
 - Our clients include ***National Numeracy***, ***NHS (Sussex Partnership)***, ***Virtual Gurus***, ***TMA World***, ***London Business School***, ***Close Brothers***.
 
@@ -119,7 +121,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 - Part of a talented multidisciplinary team, working primarily as a Back-end Developer and producing web applications.
 - Maintaining and expanding the Zend-based agency CMS and creating re-usable modules
-- Responsible for maintaining the full back catalog of the agencies projects, as well as rebuilding and expanding functionalities.
+- Responsible for maintaining the full back catalog of the agency's projects, as well as rebuilding and expanding functionalities.
 - Managing the projects databases.
 - Responsible for testing and launching projects.
 - Writing documentations and guides.
