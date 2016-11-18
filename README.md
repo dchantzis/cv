@@ -69,7 +69,7 @@ Informatics Engineer and Web Developer based in Brighton, UK
 
 ## Professional Experience
 
-###### 06/2016 - current
+###### 06/2016 - 11/2016
 #### Senior Web Developer
 *22 Point Six* [(website)](http://www.22pointsix.co.uk) | *Burgess Hill*
 
@@ -81,9 +81,9 @@ Informatics Engineer and Web Developer based in Brighton, UK
 - Server maintenance.
 - Managing projects backups on Amazon AWS.
 - Writing documentations and guides.
-- Projects included: ***Thomas Marsh***, ***The BDM Group company systems and websites***.
+[- Projects included: ***Thomas Marsh***, ***The BDM Group company systems and websites***.]<>
 
-**Technologies**: PHP(OOP), Symfony (2 & 3), SQL, MySQL, HTML5, CSS3, javaScript, AJAX, jQuery, OpenCart, Wordpress, XML, JSON, Twig, Git, Vagrant, Digital Ocean, Amazon AWS, MS Azure, YML, Pimple 
+**Technologies**: PHP(OOP), Symfony (2 & 3), SQL, MySQL, HTML5, CSS3, javaScript, AJAX, jQuery, OpenCart, Wordpress, XML, JSON, Twig, Git, Vagrant, Digital Ocean, Amazon AWS, MS Azure, YML, Pimple
 
 ---
 
